@@ -1,0 +1,5 @@
+NSFaceIDUsageDescription = "Talentio requires permissions to perform finger verification";
+NSLocationWhenInUseUsageDescription = "We use your location to help you find nearby company facilities and events. This information helps you navigate to work-related locations more efficiently";
+NSCameraUsageDescription = "We need access to your camera to allow you to capture and upload photos for your employee profile picture and to scan necessary documents for HR purposes";
+NSPhotoLibraryUsageDescription = "We need access to your photo library to allow you to upload images for your employee profile picture and to submit photos of documents required for HR processes.";
+PermissionGroupNotification = "We need to be able to send you Notifications to be able get communicate in efficient way";
