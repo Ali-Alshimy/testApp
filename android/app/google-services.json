@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919262776871",
+    "project_id": "mobix-408923",
+    "storage_bucket": "mobix-408923.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919262776871:android:3f5eb63d279e374f148802",
+        "android_client_info": {
+          "package_name": "golivesolution.mobix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_P0LmdiVIf68W78cATqpiZwRhzHpSEIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919262776871:android:e3fc0ce16439b455148802",
+        "android_client_info": {
+          "package_name": "golivesolution.talentio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_P0LmdiVIf68W78cATqpiZwRhzHpSEIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
